@@ -53,8 +53,11 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 4. Results will offer compact mode
     1. Poll Answers with 0 votes will not be displayed
 	2. Total Votes will not be displayed
+5. Each Poll will be attached to 0 or more Categories
+    1. Poll will be displayed in Panel
+6. Polls will have an administration screen
 
-## Steps to Success ##
+## Steps to Proceed ##
 - ~~Setup development environment~~
 - Finalize requirements
 - Analyze differences in 2.1b1 and 2.0.x Discussion controllers, models, and standard views
