@@ -59,7 +59,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 
 ## Steps to Proceed ##
 - ~~Setup development environment~~
-- Finalize requirements
+- ~~Finalize requirements~~
 - Analyze differences in 2.1b1 and 2.0.x Discussion controllers, models, and standard views
 - Determine necessary event hooks
     - Place placeholder comments describing functionality required
