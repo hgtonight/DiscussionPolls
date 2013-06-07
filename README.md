@@ -44,6 +44,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 17. Default styling will work in default theme
 
 ### Subsequent Releases ###
+1. Polls will be able to be closed independantly of discussion
 1. Poll will automatically expire after 7 days
     1. Expiration will be a configurable setting
 2. Poll editing will respect permissions
