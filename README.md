@@ -47,7 +47,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 1. Polls will be able to be closed independantly of discussion
 1. Poll will automatically expire after 7 days
     1. Expiration will be a configurable setting
-2. Poll editing will respect permissions
+2. ~~Poll editing will respect permissions~~
     1. Can be set per role
     2. Original author can edit poll without needing editing permissions
 3. Poll editing will be disabled upon first successful Poll submission
