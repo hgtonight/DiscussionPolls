@@ -16,9 +16,9 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 	    1. Installation will be described
         2. Configuration will be described
         3. Common issues will be described
-4. Poll creation and deletion will respect permissions
-    1. Can be set per role
-    2. Original author can delete poll without needing deletion permissions
+4. ~~Poll creation and deletion will respect permissions~~
+    1. ~~Can be set per role~~
+    2. ~~Original author can delete poll without needing deletion permissions~~
 5. Each Poll will comprise of 1 or more Poll Questions
 6. Each Poll Question will comprise of 2 or more Poll Answers
 7. Each User will be able to Select only one Poll Answer per Poll Question
@@ -41,13 +41,13 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
         1. Colored bars will be displayed next to each Poll Answer
             1. Bar width will be representative of the percentage of votes indicating the Poll Answer
         2. Percentage of votes indicating the Poll Answer will be displayed
-17. Default styling will work in default theme
+17. ~~Default styling will work in default theme~~
 
 ### Subsequent Releases ###
 1. Polls will be able to be closed independantly of discussion
 1. Poll will automatically expire after 7 days
     1. Expiration will be a configurable setting
-2. ~~Poll editing will respect permissions~~
+2. Poll editing will respect permissions
     1. Can be set per role
     2. Original author can edit poll without needing editing permissions
 3. Poll editing will be disabled upon first successful Poll submission
