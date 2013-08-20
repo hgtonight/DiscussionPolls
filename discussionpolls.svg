@@ -12,15 +12,7 @@
    height="50"
    id="svg3030">
   <defs
-     id="defs3032">
-    <filter
-       color-interpolation-filters="sRGB"
-       id="filter3755">
-      <feGaussianBlur
-         id="feGaussianBlur3757"
-         stdDeviation="0.64" />
-    </filter>
-  </defs>
+     id="defs3032" />
   <metadata
      id="metadata3035">
     <rdf:RDF>
@@ -61,4 +53,53 @@
      y="33.474579"
      id="rect2998"
      style="fill:#8d5fd3;fill-opacity:1;stroke:none" />
+  <rect
+     width="33.050846"
+     height="10.381356"
+     x="21.398306"
+     y="62.881355"
+     id="rect3756"
+     style="fill:#dfff2a;fill-opacity:1;stroke:none" />
+  <rect
+     width="18.008474"
+     height="10.381356"
+     x="21.398306"
+     y="76.546616"
+     id="rect3758"
+     style="fill:#379ec8;fill-opacity:1;stroke:none" />
+  <rect
+     width="33.050846"
+     height="10.381356"
+     x="61.398304"
+     y="22.881355"
+     id="rect3774"
+     style="fill:#ff2a2a;fill-opacity:1;stroke:none" />
+  <rect
+     width="18.008474"
+     height="10.381356"
+     x="61.398304"
+     y="36.546612"
+     id="rect3776"
+     style="fill:#c8ae37;fill-opacity:1;stroke:none" />
+  <rect
+     width="26.483051"
+     height="10.381356"
+     x="61.398304"
+     y="50.211868"
+     id="rect3778"
+     style="fill:#5f6fd3;fill-opacity:1;stroke:none" />
+  <rect
+     width="33.050846"
+     height="10.381356"
+     x="61.398304"
+     y="62.881355"
+     id="rect3780"
+     style="fill:#ff2af6;fill-opacity:1;stroke:none" />
+  <rect
+     width="18.008474"
+     height="10.381356"
+     x="61.398304"
+     y="76.546616"
+     id="rect3782"
+     style="fill:#37c88c;fill-opacity:1;stroke:none" />
 </svg>
