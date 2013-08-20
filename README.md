@@ -5,7 +5,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 ## Formal Requirements ##
 
 ### Initial Release ###
-1. Plugin will be compatible with Vanilla 2.0.x and Vanilla 2.1b1
+1. ~~Plugin will be compatible with Vanilla 2.0.x and Vanilla 2.1b1~~
 2. Plugin will be released under an approved Open Source License
 3. Plugin will be documented
     1. Each **non-trivial** method will be documented
@@ -36,7 +36,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 15. Results will be shown after Show Results toggle
     1. Show Results toggle will be displayed per a configurable setting
 16. ~~Results will provide a clean presentation~~
-    1. Total Votes will be displayed
+    1. ~~Total Votes will be displayed~~
     2. ~~Each Poll Question will display each Poll Answer~~
         1. ~~Colored bars will be displayed next to each Poll Answer~~
             1. ~~Bar width will be representative of the percentage of votes indicating the Poll Answer~~
