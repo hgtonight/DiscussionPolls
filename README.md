@@ -33,7 +33,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 12. ~~Poll will be deleted if attached Discussion is removed~~
 13. ~~Poll will be disabled if attached Discussion is closed~~
 14. ~~Results will be shown after successful voting~~
-15. Results will be shown after Show Results toggle
+15. ~~Results will be shown after Show Results toggle~~
     1. Show Results toggle will be displayed per a configurable setting
 16. ~~Results will provide a clean presentation~~
     1. ~~Total Votes will be displayed~~
