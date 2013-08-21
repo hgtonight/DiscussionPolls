@@ -7,11 +7,11 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 ### Initial Release ###
 1. ~~Plugin will be compatible with Vanilla 2.0.x and Vanilla 2.1b1~~
 2. Plugin will be released under an approved Open Source License
-3. Plugin will be documented
-    1. Each **non-trivial** method will be documented
-        1. Intent of method will be described
-        2. Parameters will be described
-		3. Return will be described
+3. ~~Plugin will be documented~~
+    1. ~~Each **non-trivial** method will be documented~~
+        1. ~~Intent of method will be described~~
+        2. ~~Parameters will be described~~
+		3. ~~Return will be described~~
     2. A readme will be provided
 	    1. Installation will be described
         2. Configuration will be described
@@ -34,7 +34,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 13. ~~Poll will be disabled if attached Discussion is closed~~
 14. ~~Results will be shown after successful voting~~
 15. ~~Results will be shown after Show Results toggle~~
-    1. Show Results toggle will be displayed per a configurable setting
+    1. ~~Show Results toggle will be displayed per a configurable setting~~
 16. ~~Results will provide a clean presentation~~
     1. ~~Total Votes will be displayed~~
     2. ~~Each Poll Question will display each Poll Answer~~
