@@ -13,9 +13,9 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
         2. ~~Parameters will be described~~
 		3. ~~Return will be described~~
     2. A readme will be provided
-	    1. Installation will be described
-        2. Configuration will be described
-        3. Common issues will be described
+	    1. ~~Installation will be described~~
+        2. ~~Configuration will be described~~
+        3. ~~Common issues will be described~~
 4. ~~Poll creation and deletion will respect permissions~~
     1. ~~Can be set per role~~
     2. ~~Original author can delete poll without needing deletion permissions~~
@@ -44,7 +44,7 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 17. ~~Default styling will work in default theme~~
 
 ### Subsequent Releases ###
-1. Polls will be able to be closed independantly of discussion
+1. Polls will be able to be closed independently of discussion
 1. Poll will automatically expire after 7 days
     1. Expiration will be a configurable setting
 2. Poll editing will respect permissions
@@ -67,8 +67,8 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 - ~~Determine Poll model~~
 - ~~Determine optimal views~~
 - ~~Implement apparent methods~~
-- Test functionality
-- Flesh out descriptions of functionality
+- ~~Test functionality~~
+- ~~Flesh out descriptions of functionality~~
 - Double check documentation
 - Release
 
