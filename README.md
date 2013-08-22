@@ -6,13 +6,13 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 
 ### Initial Release ###
 1. ~~Plugin will be compatible with Vanilla 2.0.x and Vanilla 2.1b1~~
-2. Plugin will be released under an approved Open Source License
+2. ~~Plugin will be released under an approved Open Source License~~
 3. ~~Plugin will be documented~~
     1. ~~Each **non-trivial** method will be documented~~
         1. ~~Intent of method will be described~~
         2. ~~Parameters will be described~~
 		3. ~~Return will be described~~
-    2. A readme will be provided
+    2. ~~A readme will be provided~~
 	    1. ~~Installation will be described~~
         2. ~~Configuration will be described~~
         3. ~~Common issues will be described~~
@@ -69,8 +69,8 @@ We, the [Vanilla Forums](http://www.vanillaforums.org/discussions) community, wa
 - ~~Implement apparent methods~~
 - ~~Test functionality~~
 - ~~Flesh out descriptions of functionality~~
-- Double check documentation
-- Release
+- ~~Double check documentation~~
+- ~~Release~~
 
 ## Sponsors ##
 50sQuiff, whu606, x00, hgtonight
